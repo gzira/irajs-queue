@@ -1,0 +1,24 @@
+{
+  "name": "irajs-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzira/irajs-queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzira/irajs-queue/issues"
+  },
+  "homepage": "https://github.com/gzira/irajs-queue#readme",
+  "dependencies": {
+    "bee-queue": "^1.2.2",
+    "moment": "^2.21.0"
+  }
+}
